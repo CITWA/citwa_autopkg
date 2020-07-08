@@ -16,7 +16,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.hansen-m.download.zoomus</string>
+	<string>com.github.homebysix.pkg.Zoom</string>
 	<key>Process</key>
 	<array>
 		<dict>
