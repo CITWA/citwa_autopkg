@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>Description</key>
-    <string>Downloads NoMAD</string>
+    <string>Downloads NoMAD Login</string>
     
     <key>Identifier</key>
     <string>com.github.rickgmac.download.NoMADLogin</string>
