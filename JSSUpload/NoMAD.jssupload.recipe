@@ -26,8 +26,7 @@
                     <string>%NAME%</string>
                     <key>category</key>
                     <string>%CATEGORY%</string>
-                    <key>policy_category</key>
-                    </dict>
+                </dict>
                 <key>Processor</key>
                 <string>JSSImporter</string>
             </dict>
