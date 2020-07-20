@@ -26,7 +26,6 @@
                     <string>%NAME%</string>
                     <key>category</key>
                     <string>%CATEGORY%</string>
-                    </array>
                 </dict>
                 <key>Processor</key>
                 <string>JSSImporter</string>
