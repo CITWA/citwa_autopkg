@@ -30,7 +30,7 @@
 			<key>Arguments</key>
 			<dict>
 				<key>pattern</key>
-				<string>%RECIPE_CACHE_DIR%/unpack/%NAME%.pkg/Payload</string>
+				<string>%RECIPE_CACHE_DIR%/unpack/NoMAD-Login-AD.pkg/Payload</string>
 			</dict>
 			<key>Processor</key>
 			<string>FileFinder</string>
