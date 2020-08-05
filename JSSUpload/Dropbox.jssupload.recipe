@@ -12,6 +12,7 @@
             <string>Dropbox</string>
             <key>CATEGORY</key>
             <string>Collaboration</string>
+        </dict>
          <key>MinimumVersion</key>
         <string>0.4.0</string>
         <key>ParentRecipe</key>
