@@ -11,9 +11,9 @@
         <key>TEAMVIEWER_VERSION</key>
         <string>15</string>
         <key>TEAMVIEWER_CUSTOM_ID</key>
-        <string>CUSTOM_ID_NUMBER</string>
+        <string>cjafbvyj</string>
         <key>DOWNLOAD_URL</key>
-        <string>https://dl.tvcdn.de//download/version_%TEAMVIEWER_VERSION%x/CustomDesign/Install%20TeamViewerHost-%TEAMVIEWER_CUSTOM_ID%.pkg</string>
+        <string>https://dl.teamviewer.com/download/version_%TEAMVIEWER_VERSION%x/CustomDesign/Install%20TeamViewerHost-%TEAMVIEWER_CUSTOM_ID%.pkg</string>
         <key>NAME</key>
         <string>TeamViewerHostCustom</string>
     </dict>
