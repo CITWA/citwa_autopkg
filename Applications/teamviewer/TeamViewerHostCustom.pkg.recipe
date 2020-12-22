@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads latest version of the desired major TeamViewer version and creates a pkg.</string>
     <key>Identifier</key>
-    <string>com.github.apizz.pkg.TeamViewerHostCustom</string>
+    <string>com.github.rickgmac.pkg.TeamViewerHostCustom</string>
     <key>Input</key>
     <dict>
         <key>TEAMVIEWER_VERSION</key>
