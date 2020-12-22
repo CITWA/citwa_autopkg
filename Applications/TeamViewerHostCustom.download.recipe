@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>Description</key>
-    <string>Downloads the latest version of the desired major TeamViewer version with your custom pkg ID.</string>
+    <string>Downloads the latest version of the desired major TeamViewer version with your Catalytic IT ID.</string>
     <key>Identifier</key>
     <string>com.github.rickgmac.download.TeamViewerHostCustom</string>
     <key>Input</key>
