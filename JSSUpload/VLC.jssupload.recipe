@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads latest VLC disk image, and builds a package, and uploads to the JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.rickgmac.jssupload.VLC</string>
+	<string>com.github.citwa.jssupload.VLC</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>

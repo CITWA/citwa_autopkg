@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Microsoft's Remote Desktop installer package,renames the package and imports it into your JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.rickgmac.jssupload.microsoftremotedesktop</string>
+	<string>com.github.citwa.jssupload.microsoftremotedesktop</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>

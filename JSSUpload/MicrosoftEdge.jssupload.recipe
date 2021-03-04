@@ -5,7 +5,7 @@
         <key>Description</key>
         <string>Uses parent download recipe to download the latest Microsoft Edge installer package and import it into the JSS.</string>
         <key>Identifier</key>
-        <string>com.github.rickgmac.jssupload.microsoftedge</string>
+        <string>com.github.citwa.jssupload.microsoftedge</string>
         <key>Input</key>
         <dict>
             <key>NAME</key>

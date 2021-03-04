@@ -4,7 +4,7 @@
         <key>Description</key>
         <string>Downloads the latest version of Microsoft's Intune Company Portal installer package, renames the package to match our naming standard, then uploads to the JSS.</string>
         <key>Identifier</key>
-        <string>com.github.rickgmac.jssupload.MicrosoftIntuneCompanyPortal</string>
+        <string>com.github.citwa.jssupload.MicrosoftIntuneCompanyPortal</string>
         <key>Input</key>
         <dict>
             <key>NAME</key>

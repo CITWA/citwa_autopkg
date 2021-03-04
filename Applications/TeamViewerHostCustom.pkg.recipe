@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads latest version of the desired major TeamViewer version and creates a pkg.</string>
     <key>Identifier</key>
-    <string>com.github.rickgmac.pkg.TeamViewerHostCustom</string>
+    <string>com.github.citwa.pkg.TeamViewerHostCustom</string>
     <key>Input</key>
     <dict>
         <key>TEAMVIEWER_VERSION</key>
@@ -18,7 +18,7 @@
     <key>MinimumVersion</key>
     <string>0.5.0</string>
     <key>ParentRecipe</key>
-    <string>com.github.rickgmac.download.TeamViewerHostCustom</string>
+    <string>com.github.citwa.download.TeamViewerHostCustom</string>
     <key>Process</key>
     <array>
         <dict>

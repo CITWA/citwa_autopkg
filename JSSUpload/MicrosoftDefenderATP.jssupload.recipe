@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of the Microsoft Defender ATP installer package, renames the package and imports it into your JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.rickgmac.jssupload.microsoftdefenderatp</string>
+	<string>com.github.citwa.jssupload.microsoftdefenderatp</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>

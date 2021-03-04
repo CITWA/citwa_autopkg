@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads Citrix Workspace disk image, extracts the installer package and imports it into your JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.rickgmac.jssupload.citrixworkspace</string>
+	<string>com.github.citwa.jssupload.citrixworkspace</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>

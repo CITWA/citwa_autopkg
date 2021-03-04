@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Microsoft's Skype for Business installer and imports it into your JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.rickgmac.jssupload.skypeforbusiness365</string>
+	<string>com.github.citwa.jssupload.skypeforbusiness365</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>

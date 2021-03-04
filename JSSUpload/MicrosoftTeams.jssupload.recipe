@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads Microsoft Teams disk image, and builds a package and imports it into your JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.rickgmac.jssupload.microsoftteams</string>
+	<string>com.github.citwa.jssupload.microsoftteams</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>

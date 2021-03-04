@@ -6,7 +6,7 @@
     <string>Downloads NoMAD Login</string>
     
     <key>Identifier</key>
-    <string>com.github.rickgmac.download.NoMADLogin</string>   
+    <string>com.github.citwa.download.NoMADLogin</string>   
     
     <key>Input</key>
     <dict>
